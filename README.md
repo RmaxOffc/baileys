@@ -1,33 +1,27 @@
-<<<<<<< HEAD
 <p align="center">
-  <img src="https://c.top4top.io/p_36893h84f1.jpg" width="250"/>
+  <img src="https://c.top4top.io/p_36893h84f1.jpg" width="200"/>
 </p>
 
-<h1 align="center">Modified WhatsApp Baileys</h1>
+<h1 align="center">📱 Modified WhatsApp Baileys</h1>
 
 ---
 
-WhatsApp Baileys is an open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently and directly. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, as well as interactive messages and action buttons for a more dynamic user experience.
+**Modified WhatsApp Baileys** is a lightweight and modular library that enables developers to automate WhatsApp directly using **WebSockets**, without opening a browser. It’s perfect for building chatbots, business automation, and advanced messaging features.
 
-Actively developed and maintained, baileys continuously receives updates to enhance stability and performance. One of the main focuses is to improve the pairing and authentication processes to be more stable and secure. Pairing features can be customized with your own codes, making the process more reliable and less prone to interruptions.
+### 🚀 Key Features
+- **Full WhatsApp integration**: Send and receive messages, media, and stickers.
+- **Group management**: Create, join, and manage groups automatically.
+- **Interactive messages**: Support for buttons, lists, and custom replies.
+- **Secure authentication**: Improved pairing & authentication handling.
+- **Highly modular**: Easy to extend and integrate with other systems.
 
-This library is highly suitable for building business bots, chat automation systems, customer service solutions, and various other communication automation applications that require high stability and comprehensive features. With a lightweight and modular design, baileys is easy to integrate into different systems and platforms.
+---
 
---- 
+### ⚡ Installation
 
-## Usage
+Add it as a dependency in your `package.json`:
+
 ```json
 "dependencies": {
   "@whiskeysockets/baileys": "github:RmaxOffc/baileys"
 }
-```
-## Import
-```javascript
-const {
-  default:makeWASocket,
-  // Other Options 
-} = require('@whiskeysockets/baileys');
-```
-=======
-# baileys
->>>>>>> 27d3b0ecf07d1bea28cd41d1de0887175501b668
