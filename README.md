@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="https://c.top4top.io/p_36893h84f1.jpg" width="250"/>
 </p>
@@ -27,3 +28,6 @@ const {
   // Other Options 
 } = require('@whiskeysockets/baileys');
 ```
+=======
+# baileys
+>>>>>>> 27d3b0ecf07d1bea28cd41d1de0887175501b668
